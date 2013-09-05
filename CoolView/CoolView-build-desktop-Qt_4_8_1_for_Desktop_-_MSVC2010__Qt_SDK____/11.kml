@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document>
+        <name>11.kml</name>
+        <description/>
+        <Placemark id="1">
+            <name>1.JPG</name>
+            <TimeStamp>
+                <when>2011-08-13T20:58:00Z</when>
+            </TimeStamp>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>1.JPG</href>
+                    </Icon>
+                    <hotSpot x="100" y="100" yunits="pixels" xunits="pixels"/>
+                </IconStyle>
+            </Style>
+            <Point>
+                <altitudeMode>clampToSeaFloor</altitudeMode>
+                <coordinates>89.58899688720703,44.01933288574219,645.2687377929688</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="2">
+            <name>2.JPG</name>
+            <TimeStamp>
+                <when>2011-10-27T13:00:02Z</when>
+            </TimeStamp>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>2.JPG</href>
+                    </Icon>
+                    <hotSpot x="100" y="100" yunits="pixels" xunits="pixels"/>
+                </IconStyle>
+            </Style>
+            <Point>
+                <altitudeMode>clampToSeaFloor</altitudeMode>
+                <coordinates>106.3150024414063,29.60899925231934,121.4017105102539</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="3">
+            <name>3.JPG</name>
+            <TimeStamp>
+                <when>2011-12-04T19:04:45Z</when>
+            </TimeStamp>
+            <Style>
+                <IconStyle>
+                    <Icon>
+                        <href>3.JPG</href>
+                    </Icon>
+                    <hotSpot x="100" y="100" yunits="pixels" xunits="pixels"/>
+                </IconStyle>
+            </Style>
+            <Point>
+                <altitudeMode>clampToSeaFloor</altitudeMode>
+                <coordinates>106.3046646118164,29.60733413696289,0.</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

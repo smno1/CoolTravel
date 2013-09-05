@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/closed_folder.png</file>
+        <file>icon/jpeg_image.png</file>
+        <file>icon/my_documents.png</file>
+        <file>icon/my_pictures.png</file>
+        <file>icon/open_folder.png</file>
+        <file>icon/search.png</file>
+        <file>icon/settings.png</file>
+        <file>icon/text_document.png</file>
+        <file>icon/entire_network.png</file>
+        <file>icon/folder_options.png</file>
+        <file>icon/network_drive_offline.png</file>
+        <file>icon/network_service.png</file>
+        <file>icon/recycle_bin_f.png</file>
+        <file>icon/document_delete.png</file>
+        <file>icon/find.png</file>
+        <file>icon/folder_delete3.png</file>
+        <file>icon/folder_new.png</file>
+        <file>icon/folder_open_accept.png</file>
+        <file>icon/save_add2.png</file>
+        <file>icon/trash_can.png</file>
+    </qresource>
+</RCC>

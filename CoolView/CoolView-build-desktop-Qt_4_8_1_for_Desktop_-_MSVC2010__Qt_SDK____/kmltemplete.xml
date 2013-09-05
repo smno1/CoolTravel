@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+	<name>
+	</name>
+	<description>
+	</description>
+	<Placemark id="underwater1">
+			<name>
+				Still swimming...
+			</name>
+			<description>
+			  <![CDATA[
+			   <img name="cake" src="cake.jpg" />
+			   <p>We're about to leave the ocean, and visit the coast...</p>]]>
+			</description>
+			<TimeStamp>
+				<when>
+					2005-11-19T00:04:00Z
+				</when>
+			</TimeStamp>
+			<Style>
+				<IconStyle> 
+					<Icon>
+						<href>
+							cake.jpg
+						</href>
+					</Icon>        
+					<hotSpot x="100" y="100" xunits="pixels" yunits="pixels">
+					</hotSpot>
+				</IconStyle>
+			</Style>
+			<Point>
+				<gx:altitudeMode>clampToSeaFloor</gx:altitudeMode>
+				<coordinates>-119.779550,33.829268,0</coordinates>
+			</Point>
+    </Placemark>
+	</Document>
+</kml>
